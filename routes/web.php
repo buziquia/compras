@@ -13,7 +13,7 @@ use App\Http\Controllers\CarrinhoController;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
-
+//a
 Route::get('/', function () {
     return view('welcome');
 });
